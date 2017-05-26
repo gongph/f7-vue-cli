@@ -1,0 +1,4 @@
+#! usr/bin/env node
+
+const xtoolkit = require('xtoolkit')
+xtoolkit.command('init', 'local:../lib/fv-init.js')
