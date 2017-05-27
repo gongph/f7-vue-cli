@@ -10,8 +10,12 @@ $ npm i f7-vue-cli -g
 ## Usage
 create a new framework7-vue project
 
-```
+```bash
+# create a framework7-vue project
 $ fv init your_project_name
+
+# current cli version
+$ fv -v
 ```
 
 Then, Switch to the project directory and run:
@@ -24,8 +28,8 @@ Some npm commands you can use:
 
 ```bash
 # build vue source file
-npm run build
+$ npm run build
 
 # start a web serve at 8080 port
-npm run serve
+$ npm run serve
 ```
