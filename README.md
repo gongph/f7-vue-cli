@@ -1,4 +1,4 @@
-# f7-vue-cli
+# f7-vue-cli [![Gem](https://img.shields.io/gem/dv/rails/4.1.0.svg)](https://www.npmjs.com/package/f7-vue-cli)
 Simple CLI for scaffolding Framework7-Vue projects
 
 ## Install
