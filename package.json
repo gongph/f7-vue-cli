@@ -20,7 +20,9 @@
     "ui-components",
     "toolkit"
   ],
-  "author": "gongph",
+  "author": {
+    "name": "gongph@foxmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gongph/f7-vue-cli/issues"
