@@ -3,8 +3,12 @@ Simple CLI for scaffolding Framework7-Vue projects
 
 ## Install
 
-```
+```bash
+#global install
 $ npm i f7-vue-cli -g
+
+# version
+$ fv -v
 ```
 
 ## Usage
@@ -13,9 +17,6 @@ create a new framework7-vue project
 ```bash
 # create a framework7-vue project
 $ fv init your_project_name
-
-# current cli version
-$ fv -v
 ```
 
 Then, Switch to the project directory and run:
