@@ -1,4 +1,11 @@
 #!/usr/bin/env node
 
-const xtoolkit = require('xtoolkit')
-xtoolkit.command('init', 'local:../lib/fv-init.js')
+var xtoolkit = require('xtoolkit')
+var argv = require('yargs').argv
+
+if (argv.v) {
+  console.log('  v' + require('../package.json').version)
+}
+else {
+  xtoolkit.command('init', 'local:../lib/fv-init.js')
+}
