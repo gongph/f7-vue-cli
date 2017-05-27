@@ -1,16 +1,16 @@
 # {{ name }}
 > {{ description }}
 
-## Command Line
+## Usage
+Some npm commands you can use:
 
 ```bash
-npm i # or npm install
-```
+# install moudule
+npm i
 
-```bash
-npm run build # compiler
-```
+# build vue source file
+npm run build
 
-```bash
-npm run dev # start serve
+# start a web serve at 8080 port
+npm run serve
 ```
