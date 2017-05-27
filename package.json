@@ -1,6 +1,6 @@
 {
   "name": "f7-vue-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple CLI scaffolding Framework7-Vue projects",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,9 @@
     "framework7-vue",
     "scaffolding",
     "ui-components",
-    "toolkit"
+    "toolkit",
+	"cli",
+	"f7-vue-cli"
   ],
   "author": {
     "name": "gongph@foxmail.com"
